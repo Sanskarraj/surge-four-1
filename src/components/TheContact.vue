@@ -3,18 +3,20 @@
     <section class="tw-flex tw-flex-row tw-items-center tw-justify-center tw-pb-20 tw-pt-16 tw-text-center">
       <div class="tw-container tw-pb-10 dark:tw-text-indigo-50 md:tw-pt-20 lg:tw-w-2/3 xl:tw-pt-40 2xl:tw-w-1/2">
         <h3 class="tw-inline-block tw-text-5xl tw-font-semibold tw-text-indigo-700 dark:tw-text-indigo-300 md:tw-text-6xl 2xl:tw-text-7xl">
-          Say hello!
+          Say Hi!
         </h3>
 
         <p class="tw-mb-2 tw-mt-8 md:tw-mt-10">
-          I'm currently taking on new clients, and would love to hear about your project! <wbr>
-          Please include as much information as possible about the scope, your timelines, and your budget.
+          <!-- I'm currently taking on new clients, and would love to hear about your project! <wbr>
+          Please include as much information as possible about the scope, your timelines, and your budget. -->
+          Feel free to reach out to us and our dedicated team will promptly address your inquiries.
+        
         </p>
 
         <div class="tw-mt-10 tw-flex tw-flex-col tw-justify-center tw-align-middle md:tw-flex-row">
           <base-btn
-            target="mailto:lauraredeker.ux@gmail.com"
-            text="lauraredeker.ux@gmail.com"
+            target="mailto:contact.morgansurge.aus@gmail.com"
+            text="mailto:contact.morgansurge.aus@gmail.com"
           />
           <div class="tw-relative tw-flex tw-flex-row tw-justify-center tw-align-middle">
             <button
@@ -68,10 +70,10 @@
         </div>
 
         <p class="tw-mb-6 tw-mt-10 md:tw-mt-20">
-          Also, feel free to connect with me on the following platforms:
+          Join the Team - <strong>Internships at MorganSurge</strong>
         </p>
         <div class="tw-flex tw-flex-row tw-flex-wrap tw-justify-center tw-font-semibold ">
-          <a
+          <!-- <a
             class="tw-px tw-flex tw-flex-row tw-items-center tw-rounded-lg tw-px-5 tw-py-2 tw-text-purple-500 tw-underline tw-underline-offset-4 hover:tw-bg-gray-200 hover:tw-text-black dark:tw-text-purple-200 dark:hover:tw-bg-black dark:hover:tw-text-white"
             href="//www.linkedin.com/in/laura-a-redeker/"
           >
@@ -104,7 +106,48 @@
               freelancermap
             </span>
             <span class="tw-i-ph-arrow-right-bold tw-ml-1 " />
-          </a>
+          </a> -->
+
+
+
+          <a 
+            class="tw-mb-2 tw-mr-2 tw-inline-block tw-rounded-full tw-border-2 tw-border-indigo-400 tw-px-6 tw-py-3 tw-text-base tw-font-semibold tw-text-indigo-700 tw-transition-all hover:tw-border-indigo-800 hover:tw-bg-slate-200 hover:tw-text-indigo-900 sm:tw-mr-4 sm:tw-text-xl md:tw-text-xl"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd8OD2GTyTOgNbwDMNmR0CQhutqkLEDwyjxLYLPH0npYKMjTQ/viewform"
+        >
+          Web Developer
+        </a>
+        <a
+            class="tw-mb-2 tw-mr-2 tw-inline-block tw-rounded-full tw-border-2 tw-border-red-400 tw-px-6 tw-py-3 tw-text-base tw-font-semibold tw-text-red-700 tw-transition-all hover:tw-border-red-800 hover:tw-bg-slate-200 hover:tw-text-red-900 sm:tw-mr-4 sm:tw-text-xl md:tw-text-xl"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd8OD2GTyTOgNbwDMNmR0CQhutqkLEDwyjxLYLPH0npYKMjTQ/viewform" 
+        >
+          <span>
+            Android Developer
+          </span>
+        </a>
+        <a
+            class="tw-mb-2 tw-mr-2 tw-inline-block tw-rounded-full tw-border-2 tw-border-purple-400 tw-px-6 tw-py-3 tw-text-base tw-font-semibold tw-text-purple-700 tw-transition-all hover:tw-border-purple-800 hover:tw-bg-slate-200 hover:tw-text-purple-900 sm:tw-mr-4 sm:tw-text-xl md:tw-text-xl"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd8OD2GTyTOgNbwDMNmR0CQhutqkLEDwyjxLYLPH0npYKMjTQ/viewform" 
+        >
+          <span>
+            ML Engineer
+          </span>
+        </a>
+        <a 
+            class="tw-mb-2 tw-mr-2 tw-inline-block tw-rounded-full tw-border-2 tw-border-emerald-400 tw-px-6 tw-py-3 tw-text-base tw-font-semibold tw-text-emerald-700 tw-transition-all hover:tw-border-emerald-800 hover:tw-bg-slate-200 hover:tw-text-emerald-900 sm:tw-mr-4 sm:tw-text-xl md:tw-text-xl"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd8OD2GTyTOgNbwDMNmR0CQhutqkLEDwyjxLYLPH0npYKMjTQ/viewform"
+        >
+          Java Developer
+        </a>
+        <a 
+            class="tw-mb-2 tw-mr-2 tw-inline-block tw-rounded-full tw-border-2 tw-border-indigo-400 tw-px-6 tw-py-3 tw-text-base tw-font-semibold tw-text-indigo-700 tw-transition-all hover:tw-border-indigo-800 hover:tw-bg-slate-200 hover:tw-text-indigo-900 sm:tw-mr-4 sm:tw-text-xl md:tw-text-xl"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd8OD2GTyTOgNbwDMNmR0CQhutqkLEDwyjxLYLPH0npYKMjTQ/viewform"
+        >
+          Data Engineer
+        </a>
+
+
+
+
         </div>
       </div>
     </section>

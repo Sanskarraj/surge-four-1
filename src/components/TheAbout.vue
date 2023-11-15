@@ -5,7 +5,7 @@
     <div class="tw-max-w-full tw-mx-auto tw-mt-10 md:tw-mt-80 md:tw-p-8 xl:tw-w-3/4 3xl:tw-w-4/6">
       <blockquote class="tw-mb-4 tw-border-[10px] tw-border-indigo-400 tw-p-5 sm:tw-p-10 tw-text-l tw-font-semibold tw-leading-tight tw-text-indigo-800 dark:tw-border-indigo-800 dark:tw-text-indigo-300 md:tw-mb-10 md:tw-p-10 md:tw-px-20 md:tw-text-xl lg:tw-text-3xl xl:tw-text-5xl">
         "Somewhere between design – a world of personas, pixels, and polish – and engineering – a world of
-        logic, loops, and Linux – lies <span class="tw-underline tw-whitespace-nowrap tw-decoration-wavy">frontend design</span>."
+        logic, loops, and Linux – lies frontend design."
         <cite class="tw-block tw-mt-5 tw-text-base tw-not-italic tw-font-semibold tw-tracking-normal tw-text-gray-800 dark:tw-text-white md:tw-mt-10 2xl:tw-text-xl">
           Brad Frost, author of
           <a
@@ -20,17 +20,18 @@
     <div class="tw-container tw-flex tw-flex-row tw-mx-auto xl:tw-mx-0 xl:tw-max-w-none xl:tw-justify-end xl:tw-pr-20 2xl:tw-pr-[15%]">
       <div class="tw-my-12 dark:tw-text-orange-50 md:tw-my-20 xl:tw-w-3/5 2xl:tw-w-1/2">
         <p class="tw-text-sm tw-font-semibold tw-text-indigo-400 tw-uppercase dark:tw-text-indigo-400 xl:tw-text-l">
-          Laura, she/her &middot; 33 &middot; based in Munich
+          <!-- Laura, she/her &middot; 33 &middot; based in Munich -->About MORGANSURGE
         </p>
         <p class="tw-my-6">
           <span class="tw-font-semibold tw-text-l dark:tw-text-indigo-100 md:tw-text-xl 2xl:tw-text-2xl">
-            TL;DR: I'm a designer, who eventually discovered
+            <!-- TL;DR: I'm a designer, who eventually discovered
             the joy of coding and somehow ended up sitting full-time on the engineer's and
-            back-end developer's floor. 👻
+            back-end developer's floor. 👻 -->
+            At MorganSurge, we are passionate about nurturing the potential within your organization. Our mission is to empower employees with the knowledge, skills, and opportunities they need to not only excel in their current roles but also to thrive in the ever-evolving landscape of the modern workplace.         
           </span>
         </p>
         <p>
-          Fast-forward to <span class="tw-font-semibold">2023</span> (and a few identity crises later),
+           <!-- Fast-forward to <span class="tw-font-semibold">2023</span> (and a few identity crises later),
           I am still here, oscillating somewhere between the design and development worlds:
           I'm not the traditional graphic designer,
           but I have a strong knowledge of the design aspects of modern web development.
@@ -40,7 +41,13 @@
           <br><br>
 
           So I guess you could say I am a <span class="tw-italic">designer-developer hybrid</span>,
-          a designer who codes, a front&#8209;end developer who designs, a creative UX&#8209;developer – or whatever you want to call it. :)
+          a designer who codes, a front&#8209;end developer who designs, a creative UX&#8209;developer – or whatever you want to call it. :) -->
+          MorganSurge is a trailblazing force in the tech realm, dedicated to transforming the way how softwareware works. With a focus on innovation, empowerment, and reliability, we bring a fresh perspective to software solutions tailored for innovation.
+        <br><br>
+      We believe that when employees are empowered to reach their full potential, organization will reap the rewards of increased productivity, employee satisfaction, and long-term success.
+
+        
+        
         </p>
       </div>
     </div>
@@ -56,7 +63,7 @@
       >
         <span class="tw-flex tw-flex-row tw-items-center tw-justify-center tw-font-semibold xl:tw-block xl:tw-px-40 xl:tw-text-2xl xl:tw-font-bold xl:tw-uppercase xl:tw-leading-tight xl:tw-tracking-widest">
           <span>
-            my work experience
+            Our Projects
           </span>
           <wbr>
           <span
@@ -70,7 +77,7 @@
     <next-section-link
       container-class="tw-block md:tw-mt-40"
       target="#expertise"
-      title="My Skills"
+      title=""
     />
   </section>
 </template>

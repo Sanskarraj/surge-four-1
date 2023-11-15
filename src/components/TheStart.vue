@@ -30,27 +30,29 @@
             <span
               class="tw-block md:tw-ml-20 2xl:tw-ml-32 2xl:tw-mt-32"
             >
-              hello,
+            
             </span>
             <span  class="md:tw-whitespace-nowrap">
-              I am <br>laura
+              <br>
+              Morgan<br>Surge
             </span>
           </h1>
         </Transition>
 
         <h2 class="tw-mt-5 tw-font-semibold tw-select-none tw-text-l dark:tw-text-orange-50 sm:tw-text-xl md:tw-mt-10 md:tw-max-w-2xl xl:tw-max-w-4xl xl:tw-text-3xl">
-          As a
+          <!-- Redefining Future, Amplifying Success -->
           <router-link
             to="/#about"
             class="tw-px-1 tw-py-2 tw-text-purple-500 tw-transition-colors tw-rounded-lg hover:tw-bg-slate-200 dark:tw-text-indigo-300 dark:hover:tw-bg-black dark:hover:tw-text-purple-300"
           >
             <span class="tw-underline tw-underline-offset-4 md:tw-underline-offset-8">
-              designer-developer
-              <span class="tw-whitespace-nowrap">hybrid<sup><span class="tw-i-ph-asterisk-bold" /></sup>
+              <!-- designer-developer -->
+              <span class="tw-whitespace-nowrap"><sup></sup>
               </span>
             </span>
           </router-link>
-          <span class="tw-whitespace-nowrap"> I understand</span> both the visual and functional aspects of creating for the web.
+          Redefining Future, Amplifying Success
+          <span class="tw-whitespace-nowrap"></span>
         </h2>
       </div>
 
@@ -68,12 +70,12 @@
 
       <Transition name="slide" appear>
         <picture>
-          <source srcset="/img/pictures/moi.webp" type="image/webp">
-          <source srcset="/img/pictures/moi.png" type="image/jpeg">
+          <source srcset="" type="image/webp">
+          <source srcset="" type="image/jpeg">
           <img
             class="custom-image-animation tw-relative tw-mx-auto tw-mb-10 tw-w-64 tw-translate-x-0 tw-transform tw-transition-all md:tw-absolute md:-tw-bottom-20 md:-tw-right-20 md:tw-z-10 md:tw-w-96 lg:tw-w-1/3 xl:-tw-bottom-[28%] 2xl:tw-w-128 3xl:-tw-right-[20%] 3xl:tw-w-144"
-            alt="Picture of Laura sneaking around the corner."
-            src="/img/pictures/moi.png"
+            
+            
           >
         </picture>
       </Transition>
@@ -82,7 +84,7 @@
     <next-section-link
       container-class="tw-hidden md:tw-block sm:-tw-mt-20 2xl:-tw-mt-32"
       target="#about"
-      title="More about me"
+      title=""
     />
   </section>
 </template>
