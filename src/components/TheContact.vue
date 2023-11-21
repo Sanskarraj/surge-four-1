@@ -16,7 +16,7 @@
         <div class="tw-mt-10 tw-flex tw-flex-col tw-justify-center tw-align-middle md:tw-flex-row">
           <base-btn
             target="mailto:contact.morgansurge.aus@gmail.com"
-            text="mailto:contact.morgansurge.aus@gmail.com"
+            text="contact.morgansurge.aus@gmail.com"
           />
           <div class="tw-relative tw-flex tw-flex-row tw-justify-center tw-align-middle">
             <button
